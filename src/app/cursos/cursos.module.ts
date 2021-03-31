@@ -13,4 +13,5 @@ import { CursosService } from './cursos.service';
   ],
   exports: [CursosComponent]
 })
+
 export class CursosModule { }
